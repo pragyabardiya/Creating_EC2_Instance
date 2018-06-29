@@ -1,0 +1,11 @@
+
+        {  
+	"GroupName": "SECURITY_GROUP1",
+    "Description":"Demo_",
+    "ImageId":"ami-4e0cc331",
+    "InstanceType":"t2.micro",
+    "KeyName":"Pragya_Key",
+    "Key": "Pragya1",
+    "Value": "Demo_2"
+        }
+            
